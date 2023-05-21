@@ -1,4 +1,4 @@
-describe(`Parametrized HW 16.05.2023`, () => {
+describe.only(`Parametrized HW 16.05.2023`, () => {
 
     before(() => {
         cy.visit('https://sanitarskyi-ngx-admin.herokuapp.com/');
