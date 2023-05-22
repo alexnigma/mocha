@@ -34,5 +34,3 @@ describe(`Parametrized HW 23.05.2023`, () => {
     it (`Bottom Right Info`, toast(`bottom-right`, 995, 1512, `OMG I'm toast!`, `OMG I'm toast!`, `Help me please!!!`, `Help me please!!!`, `10000`, `info`,`question-mark`, `rgb(4, 149, 238)`));
 
 })
-
-
